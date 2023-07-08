@@ -1,4 +1,4 @@
-# Sidebar
+# Sidebar in Web Pages
 
 1. fixed-sidebar-auto-height
    
